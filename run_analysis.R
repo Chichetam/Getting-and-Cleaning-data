@@ -1,7 +1,3 @@
-# Getting and Cleaning Data Project John Hopkins Coursera
-
-# Author: Michael Galarnyk
-
 
 
 # 1. Merges the training and the test sets to create one data set.
